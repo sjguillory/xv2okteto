@@ -40,6 +40,3 @@ ifeng 的 v2ray 项目：https://github.com/hiifeng
 
 ## 赞助
 
-爱发电：https://afdian.net/a/Misaka-blog
-
-![afdian-MisakaNo の 小破站](https://user-images.githubusercontent.com/122191366/211533469-351009fb-9ae8-4601-992a-abbf54665b68.jpg)
